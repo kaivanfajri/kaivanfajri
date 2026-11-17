@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Wave Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:38bdf8&height=220&section=header&text=enVadd&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=IT%20Undergraduate%20%26%20Web%20Enthusiast&descSize=18&descAlignY=58&animation=fadeIn" alt="enVadd Header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:38bdf8&height=220&section=header&text=enVadd&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=IT%20Undergraduate%20%E2%80%A2%20Web%20Enthusiast&descSize=18&descAlignY=58&animation=fadeIn" alt="enVadd Header" />
 
 <!-- Animated Typing SVG -->
 <a href="https://github.com/kaivanfajri">
