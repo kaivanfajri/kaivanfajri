@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Animated Wave Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:38bdf8&height=220&section=header&text=enVadd&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=Information%20Systems%20Undergraduate%20Student&descSize=18&descAlignY=58&animation=fadeIn" alt="enVadd Header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:38bdf8&height=220&section=header&text=enVadd&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=IT%20Undergraduate%20%26%20Web%20Enthusiast&descSize=18&descAlignY=58&animation=fadeIn" alt="enVadd Header" />
 
 <!-- Animated Typing SVG -->
 <a href="https://github.com/kaivanfajri">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Information+Systems+Undergraduate+Student;Full-Stack+Web+%E2%80%A2+Mobile+Apps+%E2%80%A2+Data+Science;Turning+Ideas+%26+Data+into+Practical+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Undergraduate+Student+Passionate+About+IT;Focusing+on+Web+Development+%26+Data+Exploration;Always+Curious%2C+Always+Learning+New+Things" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -30,12 +30,12 @@
 
 ```yaml
 name: "enVadd"
-role: "Information Systems Undergraduate Student"
-focus_areas:
-  - "Full-Stack Web Development (Laravel, Node.js, Express, PHP)"
-  - "Android Mobile Development (Kotlin, Jetpack Room Database)"
-  - "Data Science & Machine Learning (Python, SVM, Data Analytics)"
-current_focus: "Building clean, data-driven web & mobile applications 🚀"
+role: "Information Systems Undergraduate"
+interests:
+  - "Web Development (Laravel, Node.js, Express, PHP)"
+  - "Database & Backend Fundamentals (MySQL)"
+  - "Exploratory Data Analysis & Basic Data Mining (Python)"
+currently_learning: "Building web applications and learning how to work with data effectively"
 contact: "kaivanfajri@gmail.com"
 ```
 
@@ -46,10 +46,10 @@ contact: "kaivanfajri@gmail.com"
 <div align="center">
 
 #### **Languages & Core**
-[![My Skills](https://skillicons.dev/icons?i=py,js,php,kotlin,java,html,css&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,js,py,java,html,css&theme=dark)](https://skillicons.dev)
 
 #### **Frameworks, Databases & Environment**
-[![My Tools](https://skillicons.dev/icons?i=laravel,nodejs,express,mysql,androidstudio,git,github,vscode&theme=dark)](https://skillicons.dev)
+[![My Tools](https://skillicons.dev/icons?i=laravel,tailwind,nodejs,express,mysql,git,github,vscode&theme=dark)](https://skillicons.dev)
 
 </div>
 
@@ -82,12 +82,12 @@ contact: "kaivanfajri@gmail.com"
 
 | Project | Category & Description | Tech Stack |
 | :--- | :--- | :--- |
-| 🌐 **[kubangkotoberapak](https://github.com/kaivanfajri/kubangkotoberapak)** | Full-stack web application built with modern MVC architecture and Blade templating. | ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) |
-| ☁️ **[BackEnd-TB-CC](https://github.com/kaivanfajri/BackEnd-TB-CC)** | Backend RESTful service designed for cloud computing architecture and scalable deployment. | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
-| 🎓 **[portal-alumni](https://github.com/kaivanfajri/portal-alumni)** | Web-based alumni information and networking portal with dynamic server-side rendering. | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![EJS](https://img.shields.io/badge/EJS-B4CA65?style=flat-square&logo=ejs&logoColor=black) |
-| 🧠 **[dataMining_alzheimerSVM](https://github.com/kaivanfajri/dataMining_alzheimerSVM)** | Machine learning model for Alzheimer classification and predictive analysis using Support Vector Machine (SVM). | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) |
-| 📊 **[akdat-studentDepression](https://github.com/kaivanfajri/akdat-studentDepression)** | Data acquisition, preprocessing, and exploratory analysis pipeline on student mental health datasets. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Data Science](https://img.shields.io/badge/Data_Analysis-150458?style=flat-square&logo=pandas&logoColor=white) |
-| 📱 **[PrakPTB-roomnotes](https://github.com/kaivanfajri/PrakPTB-roomnotes)** | Native Android note-taking application implementing local persistence with Jetpack Room Database. | ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=black) |
+| 🌐 **[kubangkotoberapak](https://github.com/kaivanfajri/kubangkotoberapak)** | Full-stack web application built with modern MVC architecture, Blade templating, and Tailwind CSS. | ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) |
+| 🎓 **[portal-alumni](https://github.com/kaivanfajri/portal-alumni)** | Web-based alumni information and networking portal with dynamic server-side rendering. | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![EJS](https://img.shields.io/badge/EJS-B4CA65?style=flat-square&logo=ejs&logoColor=black) |
+| 🧠 **[dataMining_alzheimerSVM](https://github.com/kaivanfajri/dataMining_alzheimerSVM)** | Data mining and predictive classification analysis on Alzheimer dataset using Support Vector Machine (SVM). | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) |
+| 📊 **[akdat-studentDepression](https://github.com/kaivanfajri/akdat-studentDepression)** | Interactive data acquisition, preprocessing, and exploratory dashboard on student depression dataset. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) |
+| ⚖️ **[SPK_evaluasiFasilitasKampus](https://github.com/kaivanfajri/SPK_evaluasiFasilitasKampus)** | Web-based Decision Support System (SPK) for multi-criteria evaluation with MySQL database integration. | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
+| 📈 **[AVD_studentDepression](https://github.com/kaivanfajri/AVD_studentDepression)** | Exploratory data analysis (EDA) and statistical visualization notebook on student mental health data. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) |
 
 ---
 
