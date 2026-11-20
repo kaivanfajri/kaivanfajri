@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Animated Wave Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:38bdf8&height=220&section=header&text=enVadd&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=IT%20Undergraduate%20%E2%80%A2%20Web%20Enthusiast&descSize=18&descAlignY=58&animation=fadeIn" alt="enVadd Header" />
+<h1>enVadd</h1>
+<p><strong>IT Undergraduate • Web Enthusiast</strong></p>
 
 <!-- Animated Typing SVG -->
 <a href="https://github.com/kaivanfajri">
@@ -88,9 +88,3 @@ contact: "kaivanfajri@gmail.com"
 | 📊 **[akdat-studentDepression](https://github.com/kaivanfajri/akdat-studentDepression)** | Interactive data acquisition, preprocessing, and exploratory dashboard on student depression dataset. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) |
 | ⚖️ **[SPK_evaluasiFasilitasKampus](https://github.com/kaivanfajri/SPK_evaluasiFasilitasKampus)** | Web-based Decision Support System (SPK) for multi-criteria evaluation with MySQL database integration. | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
 | 📈 **[AVD_studentDepression](https://github.com/kaivanfajri/AVD_studentDepression)** | Exploratory data analysis (EDA) and statistical visualization notebook on student mental health data. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) |
-
----
-
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:38bdf8&height=120&section=footer" alt="Footer" />
-</div>
